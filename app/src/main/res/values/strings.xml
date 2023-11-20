@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SoundPi</string>
+    <string name="buscar_dispositivos">Buscar Dispositivos</string>
 </resources>
